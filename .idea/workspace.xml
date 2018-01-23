@@ -1,9 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a0ea972-5439-48e8-b5e4-f18717414428" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ArtifactIdQa/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/TriangleSides.java" afterPath="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/TriangleSides.java" />
+    <list default="true" id="2a0ea972-5439-48e8-b5e4-f18717414428" name="Default" comment="Pool">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/compiler.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_2_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_apache_camel_camel_core_2_20_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_apache_camel_camel_test_2_20_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_9_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_9_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_9_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/ArtifactIdQa.iml" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/../ArtifactIdQa/out/" />
     <ignored path="$PROJECT_DIR$/../ArtifactIdQa/target/" />
@@ -14,82 +28,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="message1.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/data/message1.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="message2.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/data/message2.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Factorial.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/Factorial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Distance.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/Distance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="41" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="15" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TriangleSides.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/TriangleSides.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EmbeddedCycle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/EmbeddedCycle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-              <folding>
-                <element signature="e#92#93#0" expanded="true" />
-                <element signature="e#123#124#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -115,8 +56,14 @@
         <option value="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/MainApp.java" />
         <option value="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/Distance.java" />
         <option value="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/Factorial.java" />
-        <option value="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/EmbeddedCycle.java" />
         <option value="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/TriangleSides.java" />
+        <option value="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/BodyMassIndex.java" />
+        <option value="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/FindTheSameNumber.java" />
+        <option value="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/EmbeddedCycle.java" />
+        <option value="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/massive.java" />
+        <option value="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/Pool.java" />
+        <option value="$PROJECT_DIR$/../ArtifactIdQa/.gitignore" />
+        <option value="$PROJECT_DIR$/../ArtifactIdQa/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -241,15 +188,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TriangleSides">
-    <configuration name="Distance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Pool">
+    <configuration name="BodyMassIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="GroupIdQa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="GroupIdQa.Distance" />
+      <option name="MAIN_CLASS_NAME" value="GroupIdQa.BodyMassIndex" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ArtifactIdQa" />
@@ -261,14 +208,14 @@
       <module name="ArtifactIdQa" />
       <envs />
     </configuration>
-    <configuration name="EmbeddedCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FindTheSameNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="GroupIdQa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="GroupIdQa.EmbeddedCycle" />
+      <option name="MAIN_CLASS_NAME" value="GroupIdQa.FindTheSameNumber" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ArtifactIdQa" />
@@ -280,33 +227,14 @@
       <module name="ArtifactIdQa" />
       <envs />
     </configuration>
-    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Pool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="GroupIdQa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="GroupIdQa.Factorial" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ArtifactIdQa" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ArtifactIdQa" />
-      <envs />
-    </configuration>
-    <configuration name="MainApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="GroupIdQa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="GroupIdQa.MainApp" />
+      <option name="MAIN_CLASS_NAME" value="GroupIdQa.Pool" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ArtifactIdQa" />
@@ -417,20 +345,39 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="massive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="GroupIdQa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="GroupIdQa.massive" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ArtifactIdQa" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ArtifactIdQa" />
+      <envs />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MainApp" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Factorial" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Distance" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TriangleSides" />
-      <item index="4" class="java.lang.String" itemvalue="Application.EmbeddedCycle" />
+      <item index="0" class="java.lang.String" itemvalue="Application.TriangleSides" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BodyMassIndex" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FindTheSameNumber" />
+      <item index="3" class="java.lang.String" itemvalue="Application.massive" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Pool" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.TriangleSides" />
-        <item index="1" class="java.lang.String" itemvalue="Application.EmbeddedCycle" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Distance" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Factorial" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MainApp" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Pool" />
+        <item index="1" class="java.lang.String" itemvalue="Application.massive" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FindTheSameNumber" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BodyMassIndex" />
+        <item index="4" class="java.lang.String" itemvalue="Application.TriangleSides" />
       </list>
     </recent_temporary>
   </component>
@@ -473,12 +420,46 @@
       <option name="project" value="LOCAL" />
       <updated>1516697024397</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fixing triangle">
+      <created>1516699583755</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1516699583755</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Body Mass Index">
+      <created>1516704786183</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1516704786183</updated>
+    </task>
+    <task id="LOCAL-00007" summary="FindTheSame">
+      <created>1516715003000</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1516715003000</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Pool">
+      <created>1516716352178</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1516716352178</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Pool">
+      <created>1516716696596</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1516716696596</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -488,12 +469,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5021322" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32963374" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963374" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21588486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21588486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Regex" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -517,7 +498,11 @@
     <MESSAGE value="Triangle sides checker added" />
     <MESSAGE value="Embedded cycle added" />
     <MESSAGE value="Fixing issue in EmbeddedCycle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixing issue in EmbeddedCycle" />
+    <MESSAGE value="Fixing triangle" />
+    <MESSAGE value="Body Mass Index" />
+    <MESSAGE value="FindTheSame" />
+    <MESSAGE value="Pool" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pool" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -529,7 +514,7 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -582,14 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/resources/log4j2.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -598,26 +575,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/Factorial.java">
+    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/massive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="46" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/Distance.java">
+    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/BodyMassIndex.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="41" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="15" selection-end-column="41" />
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/EmbeddedCycle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        <state relative-caret-position="204">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
           <folding>
             <element signature="e#92#93#0" expanded="true" />
             <element signature="e#123#124#0" expanded="true" />
@@ -625,10 +602,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3825">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/ArtifactIdQa.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/FindTheSameNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="67" lean-forward="false" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/Pool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="87" lean-forward="false" selection-start-line="5" selection-start-column="87" selection-end-line="5" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/TriangleSides.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        <state relative-caret-position="425">
+          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/Distance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="41" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="15" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="46" />
           <folding />
         </state>
       </provider>
