@@ -25,7 +25,6 @@ hs_err_pid*
 target/
 
 # IntelliJ project files
-.idea/workspace.xml
 *.xml
 *.iml
 *.iws
