@@ -11,7 +11,7 @@ public class BodyMassIndex {
         System.out.print("Введите рост в метрах: ");
         double height = scanner.nextDouble();
         System.out.println();
-        getBodyIndex(mass,height);
+        getBodyIndex(mass, height);
 
     }
 
