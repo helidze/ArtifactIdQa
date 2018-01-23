@@ -9,14 +9,14 @@ public class Factorial {
         System.out.println("Факториал числа: " + factorial.factorialOfNumber());
     }
 
-    public  int factorialOfNumber(){
+    public int factorialOfNumber() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите число: ");
         int x = scanner.nextInt();
 
         int fact = 1;
-        for (int i = 1; i <=x ; i++) {
-            fact*=i;
+        for (int i = 1; i <= x; i++) {
+            fact *= i;
 
         }
         return fact;

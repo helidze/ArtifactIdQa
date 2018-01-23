@@ -9,14 +9,14 @@ public class FindTheSameNumber {
             Scanner scanner = new Scanner(System.in);
             System.out.println("Введите трёхзначное число");
             numbers = scanner.nextInt();
-        }while (numbers < 100 || numbers > 999);
+        } while (numbers < 100 || numbers > 999);
 
-         //   System.out.println("Вы ввели не трехзначное число!");
         isTheSameNumbersPresented(numbers);
     }
-    private static boolean isTheSameNumbersPresented(int numbers){
+
+    private static boolean isTheSameNumbersPresented(int numbers) {
         int a, b, c, d, e;
-        char x = 't' ;
+        char x = 't';
 
 
         b = numbers / 100;
@@ -24,13 +24,11 @@ public class FindTheSameNumber {
         d = c / 10;
         e = c % 10;
 
-        if (b == d && d == e){
+        if (b == d && d == e) {
             System.out.println("все числа одинаковые");
-        }
-        else if (b == d || d == e || b == e){
+        } else if (b == d || d == e || b == e) {
             System.out.println("Две цифры одинаковые");
-        }
-        else
+        } else
             System.out.println("Одинаковых цифр нет");
 
         return false;

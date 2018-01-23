@@ -1,31 +1,26 @@
 package GroupIdQa;
 
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.stream.Collectors;
+import java.util.concurrent.ThreadLocalRandom;
 
 public class BadStudents {
     public static void main(String[] args) {
         getBadStudents();
     }
 
-    public static void getBadStudents(){
-        Map<String,Integer> results = new HashMap<>();
-        results.put("Петров",5);
-        results.put("Иванов",4);
-        results.put("Сидоров",2);
-        results.put("Васильев",1);
-        results.put("Петров.A",3);
-        results.put("Петров.B",4);
-        results.put("Петров.C",1);
-        results.put("Петров.D",2);
+    public static void getBadStudents() {
 
-        for (Map.Entry e: results.entrySet()
-             ) {
-            if ((int) e.getValue() <= 2){
+
+        Map<String, Integer> results = new HashMap<>();
+        for (int i = 0; i < 10; i++) {
+            int random = ThreadLocalRandom.current().nextInt(1, 5);
+            results.put("student" + i, random);
+        }
+        for (Map.Entry e : results.entrySet()
+                ) {
+            if ((int) e.getValue() <= 2) {
                 System.out.println(e);
             }
         }
