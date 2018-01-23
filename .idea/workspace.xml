@@ -1,23 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a0ea972-5439-48e8-b5e4-f18717414428" name="Default" comment="Pool">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_2_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__junit_junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_apache_camel_camel_core_2_20_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_apache_camel_camel_test_2_20_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_9_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_9_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_9_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/ArtifactIdQa.iml" afterPath="" />
+    <list default="true" id="2a0ea972-5439-48e8-b5e4-f18717414428" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.gitignore" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ArtifactIdQa/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ArtifactIdQa/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../ArtifactIdQa/out/" />
     <ignored path="$PROJECT_DIR$/../ArtifactIdQa/target/" />
@@ -62,8 +48,8 @@
         <option value="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/EmbeddedCycle.java" />
         <option value="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/massive.java" />
         <option value="$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/Pool.java" />
-        <option value="$PROJECT_DIR$/../ArtifactIdQa/.gitignore" />
         <option value="$PROJECT_DIR$/../ArtifactIdQa/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/../ArtifactIdQa/.gitignore" />
       </list>
     </option>
   </component>
@@ -105,6 +91,11 @@
             <path>
               <item name="ArtifactIdQa" type="b2602c69:ProjectViewProjectNode" />
               <item name="ArtifactIdQa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ArtifactIdQa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ArtifactIdQa" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ArtifactIdQa" type="b2602c69:ProjectViewProjectNode" />
@@ -455,7 +446,14 @@
       <option name="project" value="LOCAL" />
       <updated>1516716696596</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Pool">
+      <created>1516717140998</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1516717140998</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -618,14 +616,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/src/main/java/GroupIdQa/FindTheSameNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -662,6 +652,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../ArtifactIdQa/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
