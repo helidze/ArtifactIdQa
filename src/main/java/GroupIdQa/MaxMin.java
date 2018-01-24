@@ -1,5 +1,6 @@
 package GroupIdQa;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class MaxMin {
@@ -17,23 +18,12 @@ public class MaxMin {
         System.out.print("Введите 3-е число: ");
         int c = sc.nextInt();
 
-        if (a == b && a == c) {
-            System.out.println("Min and max sum are equal to : " + (a + b));
-            return;
-        }
+
         int[] arr = {a, b, c};
-        int min_pos = 0;
-        int max_pos = 0;
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[min_pos] > arr[i]) {
-                min_pos = i;
-            }
-            if (arr[max_pos] < arr[i]) {
-                max_pos = i;
-            }
-        }
-        int middle_pos = arr.length - (min_pos + max_pos);
-        System.out.println("Min sub: " + (arr[min_pos] + arr[middle_pos]));
-        System.out.println("Max sub: " + (arr[max_pos] + arr[middle_pos]));
+        Arrays.sort(arr);
+        int minVal = arr[0] + arr[1];
+        int maxVal = arr[arr.length - 2] + arr[arr.length - 1];
+        System.out.println("Сумма минимальных чисел: " + minVal);
+        System.out.println("Сумма максимальных чисел: " + maxVal);
     }
 }
