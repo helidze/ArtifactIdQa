@@ -3,6 +3,7 @@ package GroupIdQa;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Scanner;
 
 public class USDCurrency {
     public static void main(String[] args) {
@@ -11,6 +12,7 @@ public class USDCurrency {
 
     }
     public void currencyConverter(){
+        Scanner scanner = new Scanner(System.in);
         Map<String, Double> bankAndCurrency = new HashMap<>();
         bankAndCurrency.put("International Invest",28.9500);
         bankAndCurrency.put("Universal Bank",28.9700);
@@ -25,6 +27,9 @@ public class USDCurrency {
                 System.out.println(e);
             }
         }
-        System.out.println("Результат обмена = " + a*50);
+        System.out.println("Введите сумму наличных в гривне: ");
+        int cash = scanner.nextInt();
+
+        System.out.println("Результат обмена гривны на доллары= " + cash/a + " $");
     }
 }
