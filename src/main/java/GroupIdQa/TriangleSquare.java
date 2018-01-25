@@ -8,7 +8,7 @@ public class TriangleSquare {
         sqr.getTriangleSquare();
     }
 
-    protected void getTriangleSquare() {
+    public double getTriangleSquare() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Введите сторону правильного треугольника: ");
         int a = scanner.nextInt();
@@ -16,9 +16,10 @@ public class TriangleSquare {
         int h = scanner.nextInt();
 
         double S = 0.5 * a * h;
-        System.out.print("\nПлощадь треугольника = " + S);
+        System.out.print("\nПлощадь треугольника = " + S + "\n");
 
 
+        return S;
     }
 
 }
