@@ -15,8 +15,7 @@ public class FindTheSameNumber {
     }
 
     private static boolean isTheSameNumbersPresented(int numbers) {
-        int a, b, c, d, e;
-        char x = 't';
+        int b, c, d, e;
 
 
         b = numbers / 100;
