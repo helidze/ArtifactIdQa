@@ -18,12 +18,14 @@
 
   <dependencyManagement>
     <dependencies>
+
       <dependency>
         <groupId>org.testng</groupId>
         <artifactId>testng</artifactId>
         <version>6.11</version>
         <scope>test</scope>
       </dependency>
+
       <!-- Camel BOM -->
       <dependency>
         <groupId>org.apache.camel</groupId>
@@ -43,7 +45,7 @@
     </dependency>
 
     <!-- logging -->
-    <dependency>
+<!--    <dependency>
       <groupId>org.apache.logging.log4j</groupId>
       <artifactId>log4j-api</artifactId>
       <scope>runtime</scope>
@@ -57,7 +59,7 @@
       <groupId>org.apache.logging.log4j</groupId>
       <artifactId>log4j-slf4j-impl</artifactId>
       <scope>runtime</scope>
-    </dependency>
+    </dependency>-->
 
     <!-- testing -->
     <dependency>
@@ -70,6 +72,22 @@
       <artifactId>testng</artifactId>
       <scope>compile</scope>
     </dependency>
+      <dependency>
+          <groupId>log4j</groupId>
+          <artifactId>log4j</artifactId>
+          <version>1.2.17</version>
+      </dependency>
+      <dependency>
+          <groupId>com.jcabi</groupId>
+          <artifactId>jcabi-log</artifactId>
+          <version>0.15</version>
+          <exclusions>
+              <exclusion>
+                  <groupId>org.slf4j</groupId>
+                  <artifactId>slf4j-api</artifactId>
+              </exclusion>
+          </exclusions>
+      </dependency>
   </dependencies>
 
   <build>

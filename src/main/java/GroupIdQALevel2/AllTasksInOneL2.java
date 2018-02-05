@@ -1,7 +1,8 @@
 package GroupIdQALevel2;
-
+import org.apache.log4j.Logger;
 
 public class AllTasksInOneL2 {
+    private static Logger LOG = Logger.getLogger(AllTasksInOneL2.class);
     public static void main(String[] args) {
 
     }
@@ -21,8 +22,10 @@ public class AllTasksInOneL2 {
         for (int i = 0, j = 0; i < n; i++) {
             if (i % kratnoje == 0) {
                 arr[j++] = i;
-                System.out.println(i);
+                LOG.info(i);
             }
         }
     }
+
+
 }

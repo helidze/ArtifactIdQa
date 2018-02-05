@@ -4,6 +4,7 @@ import GroupIdQALevel2.AllTasksInOneL2;
 import org.testng.annotations.Test;
 
 public class AllTaskInOneTest {
+
     AllTasksInOneL2 l2 = new AllTasksInOneL2();
 
     @Test(priority = 1)
