@@ -1,4 +1,4 @@
-package GroupIdQALevel2;
+package GroupIdQa;
 import org.apache.log4j.Logger;
 
 public class AllTasksInOneL2 {

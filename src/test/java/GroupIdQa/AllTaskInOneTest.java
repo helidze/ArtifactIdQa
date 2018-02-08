@@ -1,6 +1,5 @@
 package GroupIdQa;
 
-import GroupIdQALevel2.AllTasksInOneL2;
 import org.apache.log4j.Logger;
 import org.testng.annotations.Test;
 
