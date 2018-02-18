@@ -14,6 +14,7 @@ public class AllTaskInOneTest {
 
     @Test(priority = 2)
     private void getKratnoje() {
+
         l2.calcAndPrintKratnoje4islo(5);
 
     }
